@@ -7,3 +7,8 @@
 * Spring Security was utilised to establish security within a web app by implementing password hashing with BCryptPaswordEncoder and Spring Security custom authentication using a database and password hashing.
 * Implement CSRF fix inside web project using Spring Security and Sorting & Pagination features inside web app using Spring Data JPA.
 * Finally, using the Spring framework, constructed REST services.
+
+## Home module:
+![home](https://github.com/NITHISHRAM1/eazyschool/assets/82199785/c24b4796-aa6d-4157-8d2e-7a2b612e73e9)
+
+
