@@ -11,4 +11,15 @@
 ## Home module:
 ![home](https://github.com/NITHISHRAM1/eazyschool/assets/82199785/c24b4796-aa6d-4157-8d2e-7a2b612e73e9)
 
+## Courses module:
+![courses](https://github.com/NITHISHRAM1/eazyschool/assets/82199785/1a980614-1218-457b-82fd-c312a68b2e7a)
+
+## Contact module:
+![contact](https://github.com/NITHISHRAM1/eazyschool/assets/82199785/47314659-b350-4fa9-85bd-85e08bf31519)
+
+## admin module:
+![admin](https://github.com/NITHISHRAM1/eazyschool/assets/82199785/fa09709b-81f2-4161-baa7-de05fee5aa61)
+
+
+
 
