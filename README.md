@@ -8,6 +8,9 @@
 * Implement CSRF fix inside web project using Spring Security and Sorting & Pagination features inside web app using Spring Data JPA.
 * Finally, using the Spring framework, constructed REST services.
 
+## Project Demo:
+https://github.com/NITHISHRAM1/eazyschool/assets/82199785/c3d46011-d9c5-4a48-8915-bd66b10ee60b
+
 ## Home module:
 ![home](https://github.com/NITHISHRAM1/eazyschool/assets/82199785/c24b4796-aa6d-4157-8d2e-7a2b612e73e9)
 
@@ -17,7 +20,7 @@
 ## Contact module:
 ![contact](https://github.com/NITHISHRAM1/eazyschool/assets/82199785/47314659-b350-4fa9-85bd-85e08bf31519)
 
-## admin module:
+## Admin module:
 ![admin](https://github.com/NITHISHRAM1/eazyschool/assets/82199785/fa09709b-81f2-4161-baa7-de05fee5aa61)
 
 
